@@ -8,7 +8,8 @@ Automatically resolves DNS names to IPs
 Outputs owner (organization) and region (location) for each entry
 Saves results to an output file
 
-usage
+usage:
+clone this respository
 ```
 python ip_lookup.py input.txt output.txt
 ```
