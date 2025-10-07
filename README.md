@@ -14,7 +14,7 @@ clone this respository
 python ip_lookup.py input.txt output.txt
 ```
 
-Input file format (one per line):
+Input file format (one per line): sample
 ```
 8.8.8.8
 google.com
